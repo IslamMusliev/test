@@ -1,0 +1,10 @@
+# values.yaml
+image:
+  name: islam/my_app
+  tag: v1
+  
+replicas: 1
+
+author: "Islam Musliev"
+
+
